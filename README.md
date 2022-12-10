@@ -1,2 +1,2 @@
 # project88
- temat to gra komputerowa
+ temat to: gra komputerowa
